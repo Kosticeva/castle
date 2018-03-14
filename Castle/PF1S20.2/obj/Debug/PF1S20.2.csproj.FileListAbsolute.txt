@@ -1,0 +1,54 @@
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\bin\Debug\PF1S20.2.exe.config
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\bin\Debug\PF1S20.2.exe
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\bin\Debug\PF1S20.2.pdb
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\obj\Debug\MainWindow.g.cs
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\obj\Debug\App.g.cs
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2_MarkupCompile.cache
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2_MarkupCompile.lref
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\obj\Debug\MainWindow.baml
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2.g.resources
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\obj\Debug\PF1S20._2.Properties.Resources.resources
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2.csproj.GenerateResource.Cache
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2.exe
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2.pdb
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\bin\Debug\Dependencies\SharpGL.dll
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\bin\Debug\Dependencies\SharpGL.SceneGraph.dll
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\bin\Debug\Dependencies\SharpGL.WPF.dll
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\bin\Debug\Models\Arrow\arrow.obj
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\bin\Debug\Models\Castle\Castle OBJ.obj
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\bin\Debug\AssimpNet.dll
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\bin\Debug\SharpGL.dll
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\bin\Debug\SharpGL.WPF.dll
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2.csprojResolveAssemblyReference.cache
+C:\Users\Jelena\Desktop\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2_Content.g.cs
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\bin\Debug\PF1S20.2.exe.config
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2.exe
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2.pdb
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\bin\Debug\Dependencies\SharpGL.dll
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\bin\Debug\Dependencies\SharpGL.SceneGraph.dll
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\bin\Debug\Dependencies\SharpGL.WPF.dll
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\bin\Debug\Models\Arrow\arrow.obj
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\bin\Debug\Models\Castle\Castle OBJ.obj
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\bin\Debug\PF1S20.2.exe
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\bin\Debug\PF1S20.2.pdb
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\bin\Debug\AssimpNet.dll
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\bin\Debug\SharpGL.dll
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\bin\Debug\SharpGL.WPF.dll
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2.csprojResolveAssemblyReference.cache
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\obj\Debug\MainWindow.g.cs
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\obj\Debug\App.g.cs
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2_Content.g.cs
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2_MarkupCompile.cache
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2_MarkupCompile.lref
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\obj\Debug\MainWindow.baml
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2.g.resources
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\obj\Debug\PF1S20._2.Properties.Resources.resources
+C:\Users\Jelena\Desktop\Fakultet\7. semestar\Racunarska grafika\PF1S20.2\PF1S20.2\obj\Debug\PF1S20.2.csproj.GenerateResource.Cache
